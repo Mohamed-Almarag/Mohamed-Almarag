@@ -27,17 +27,6 @@ accessibility, Vitest, Sentry, CI/CD
 
 **AI-assisted development** Claude, Cursor, Codex
 
-## Smart Admin Panel
-
-A commercial schema-driven admin template built with Vue 3, Vite, strict
-TypeScript, Pinia, Tailwind, and shadcn-vue. It covers 40+ CRUD modules with
-data tables, filtering, import/export, and ECharts dashboards, and ships with
-a CLI that scaffolds modules and forms from a real API contract instead of
-mock data. 9-language i18n with full RTL, CASL-based RBAC, and token-driven
-theming.
-
-[Live demo](https://smart-admin-panel-demo.vercel.app/auth/login) ·
-[Documentation](https://smart-admin-panel-docs.vercel.app/)
 
 ## Connect
 
