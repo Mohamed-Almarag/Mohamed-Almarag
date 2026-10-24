@@ -13,6 +13,7 @@ Senior Frontend Engineer with 5+ years of experience building scalable, SSR-driv
 - **[open-webui/open-webui](https://github.com/open-webui/open-webui)** (155k stars): fixed broken placeholders in 30 strings across 13 locales that showed raw placeholders or broken text instead of values, in two PRs merged by the project's creator. Merged PRs: [32501](https://github.com/open-webui/open-webui/pull/32501) · [33015](https://github.com/open-webui/open-webui/pull/33015)
 - **[lissy93/dashy](https://github.com/lissy93/dashy)** (26k stars): fixed 3 Hindi messages failing at runtime that the project's CI missed, and completed its Arabic translation (63% to 100%). Credited in the project's [README](https://github.com/lissy93/dashy#supported-languages). [Merged PR](https://github.com/lissy93/dashy/pull/2394)
 - **[knadh/listmonk](https://github.com/knadh/listmonk)** (23k stars): restored placeholders in 5 Arabic messages that dropped them, so confirmations like a deleted campaign showed without its name. [Merged PR](https://github.com/knadh/listmonk/pull/3281)
+- **[outline/outline](https://github.com/outline/outline)** (41k stars): reported 15 broken translations in 5 locales that dropped or renamed their placeholders, so names, counts and dates were missing. The maintainer fixed them within 7 hours and added a CI check that blocks this kind of bug. [Issue](https://github.com/outline/outline/issues/14280) · [Fix](https://github.com/outline/outline/pull/14285)
 
 ## Connect
 
